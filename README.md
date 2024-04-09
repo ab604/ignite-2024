@@ -1,2 +1,2 @@
 # Ignite 2024
-This repository contains notes for various parts of the Ignite internship
+This repository contains notes for activities and tasks during the Ignite internship
